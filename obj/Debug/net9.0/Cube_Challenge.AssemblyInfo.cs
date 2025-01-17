@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cube_Challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5daf9fb5022395ae93fd2520046bab64128086e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e0601b28d842982efe7821de969c800ece10b2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cube_Challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cube_Challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
